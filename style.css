@@ -1,5 +1,10 @@
-header { background-color: blueviolet;
+header { background-color: #a78ac1;
 font-size: larger;}{ }
 body{ background-color: antiquewhite;
 }
-footer{background-color: blueviolet;}
+footer{background-color: #a78ac1;}
+button
+{height: 50px;
+    font-size: larger;
+
+}
